@@ -1,0 +1,24 @@
+---
+mystudents: 
+- name: ravi
+  phno: 7777777
+  email: ravi@gmail.com
+  address:
+     street: 1
+     doorno: 22
+     pin: 50072
+- name: sasi
+  phno: 88888
+  email: sasi@ gmail.com
+    address:
+     street: 1
+     doorno: 22
+     pin: 50072
+
+- name: nani
+  phno: 999999
+  email : nani@gmail.com
+    address:
+     street: 1
+     doorno: 22
+     pin: 50072
