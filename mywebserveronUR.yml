@@ -2,7 +2,7 @@
 - hosts: all
   become: yes
   tasks:
-  - name: i want install web server on ubuntu16 node
+  - name: i want to install web server on ubuntu16 node
     apt:
       name: apache2
       state: present
