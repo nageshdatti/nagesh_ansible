@@ -1,4 +1,4 @@
 ---
 vars: value
-mywebpackageonubuntu=apache2
-mywebpackageonredhat=httpd
+mywebpackageonubuntu: apache2
+mywebpackageonredhat: httpd
